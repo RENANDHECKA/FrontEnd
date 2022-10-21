@@ -1,0 +1,35 @@
+form{
+    width: 700px;
+    height: 300px;
+    padding: 2em;
+
+    background-color: #ddd;
+    background-image: url(image.jpeg.jfif);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+}
+
+input{
+    outline: 0;
+    padding: 8px;
+
+}
+
+input:focus{
+    border: 2px solid royalblue;
+    border-radius: 16px;
+}
+
+button:hover{
+    background-color: darkslategrey;
+
+}
+
+button {
+    font-size: 17px;
+    border: 0px;
+    transition: o.4s;
+    cursor: pointer;
+}
