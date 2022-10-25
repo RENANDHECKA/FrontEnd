@@ -38,9 +38,10 @@
     display: inline-block;   
 }
 .cabecalho{
-    background-color: red;
-    position: fixed;
-    width: 200%;
+    background-color: yellow;
+    background-position: right;
+    width: 300%;
+    height: 60%;
     height: 50px;
     top: 0;
 
